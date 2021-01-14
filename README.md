@@ -1,5 +1,5 @@
 # Russian-Roulette-Simulation
-A simple Python simulation of a Russian Roulette game between 2 players. There are 4 simulation in total.
+A simple Python simulation of a Russian Roulette game between 2 players. There are 4 simulations in total.
 
 
 ## The first simulation:
